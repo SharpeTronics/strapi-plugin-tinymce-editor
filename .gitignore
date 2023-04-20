@@ -1,0 +1,11 @@
+# NodeJS
+node_modules/
+
+# Scripts
+/public/tinymce/
+
+# IDEs
+.idea/
+.vscode/
+
+.DS_Store

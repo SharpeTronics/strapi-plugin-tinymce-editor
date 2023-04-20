@@ -1,0 +1,53 @@
+{
+  "name": "@sharpetronics/strapi-plugin-tinymce-editor",
+  "version": "1.0.0",
+  "description": "Replaces the default Strapi WYSIWYG editor with a self-hosted build of the TinyMCE editor.",
+  "bugs": {
+    "url": "https://github.com/sharpetronics/strapi-plugin-tinymce-editor/issues"
+  },
+  "private": false,
+  "keywords": [
+    "strapi",
+    "tiinymce",
+    "tinymce 6",
+    "wysiwyg",
+    "rich text",
+    "editor"
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "https://opencollective.com/sharpetronics"
+  },
+  "strapi": {
+    "displayName": "TinyMCE",
+    "name": "tinymce",
+    "description": "Replaces the default Strapi WYSIWYG editor with a self-hosted build of the TinyMCE editor.",
+    "kind": "plugin"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-react": "4.3.0",
+    "fs-extra": "11.1.1",
+    "tinymce": "6.4.1"
+  },
+  "peerDependencies": {
+    "@strapi/strapi": "^4.0.0"
+  },
+  "author": "SharpeTronics, LLC (https://github.com/SharpeTronics)",
+  "maintainers": [
+    "SharpeTronics, LLC (https://sharpetronics.com)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharpeTronics/strapi-plugin-tinymce-editor.git"
+  },
+  "engines": {
+    "node": ">=14.x.x <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/SharpeTronics/strapi-plugin-tinymce-editor#readme",
+  "main": "strapi-admin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

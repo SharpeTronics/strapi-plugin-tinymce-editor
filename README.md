@@ -2,7 +2,7 @@
 
 <p align="center">Replaces the default Strapi WYSIWYG editor with a self-hosted build of the TinyMCE editor.</p>
 
-Image goes here
+![Screenshot from 2023-04-20 16-13-33](https://user-images.githubusercontent.com/18726788/233484744-d77b31c2-b0e3-4f21-9777-eb9b1a61a8f3.png)
 
 ## 👋 Introduction
 

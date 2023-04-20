@@ -45,9 +45,5 @@
     "npm": ">=6.0.0"
   },
   "license": "GPL-3.0",
-  "homepage": "https://github.com/SharpeTronics/strapi-plugin-tinymce-editor#readme",
-  "main": "strapi-admin.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "homepage": "https://github.com/SharpeTronics/strapi-plugin-tinymce-editor#readme"
 }

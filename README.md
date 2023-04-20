@@ -145,7 +145,7 @@ Strapi **v4.x.x+**
 
 Node **14 - 18**
 
-Yarn **v3.x.x**
+Tested with Yarn **v3.x.x**
 
 Tested on Strapi **v4.9.2**
 
